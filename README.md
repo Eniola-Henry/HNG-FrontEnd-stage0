@@ -6,7 +6,7 @@ This project focuses on **semantic HTML, accessibility, responsiveness, and test
 ---
 
 ## 🚀 Live Demo
-[Add your deployed link here]
+[https://eniola-henry.github.io/HNG-FrontEnd-stage0/]
 
 ---
 
@@ -90,7 +90,7 @@ This project was built to demonstrate:
 
 ## 📷 Preview
 
-(Add screenshot here)
+<img width="1364" height="605" alt="HNG Todo Card - Google Chrome 4_13_2026 5_14_36 PM" src="https://github.com/user-attachments/assets/a48811cf-1c91-4d3e-8843-d684301890e6" />
 
 ---
 
